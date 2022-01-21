@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 9c5be161aad6c0d4bae9341c601e093e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2438513633599673979
+    second: Kev1_0
+  - first:
+      213: -2886326661231908988
+    second: Kev1_1
+  - first:
+      213: -4938688553768474091
+    second: Kev1_2
+  - first:
+      213: 7990053378127261167
+    second: Kev1_3
+  - first:
+      213: 7379068583793948488
+    second: Kev1_4
+  - first:
+      213: 5048045015328212713
+    second: Kev1_5
+  - first:
+      213: 4266275051948764027
+    second: Kev1_6
+  - first:
+      213: 608020372828718547
+    second: Kev1_7
+  - first:
+      213: 1564093641143257208
+    second: Kev1_8
+  - first:
+      213: -716565291012788187
+    second: Kev1_9
+  - first:
+      213: 8490568490493265257
+    second: Kev1_10
+  - first:
+      213: 472009005190082046
+    second: Kev1_11
+  - first:
+      213: -7996058396175520352
+    second: Kev1_12
+  - first:
+      213: 2623471954955816329
+    second: Kev1_13
+  - first:
+      213: 5262035730963012701
+    second: Kev1_14
+  - first:
+      213: -597955721692099483
+    second: Kev1_15
+  - first:
+      213: 1900916966714212794
+    second: Kev1_16
+  - first:
+      213: 5695222004839706676
+    second: Kev1_17
+  - first:
+      213: 4448397162301979655
+    second: Kev1_18
+  - first:
+      213: 6930967575940122947
+    second: Kev1_19
+  - first:
+      213: -3368334427285140189
+    second: Kev1_20
+  - first:
+      213: 7377523426368170842
+    second: Kev1_21
+  - first:
+      213: 7366445677217234119
+    second: Kev1_22
+  - first:
+      213: 2943367576315301329
+    second: Kev1_23
+  - first:
+      213: -8363818534212233691
+    second: Kev1_24
+  - first:
+      213: -6010531733845772003
+    second: Kev1_25
+  - first:
+      213: 5658044287083402030
+    second: Kev1_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kev1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d7aeda3757d120800000000000000
+      internalID: 2438513633599673979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487688ba135b1f7d0800000000000000
+      internalID: -2886326661231908988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa7583de0467bb0800000000000000
+      internalID: -4938688553768474091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6fabd63f52ee60800000000000000
+      internalID: 7990053378127261167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847784ee7c7b76660800000000000000
+      internalID: 7379068583793948488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_5
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c1dc12324e0640800000000000000
+      internalID: 5048045015328212713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_6
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b64895e8ad43b30800000000000000
+      internalID: 4266275051948764027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_7
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d508a2ce4f107800800000000000000
+      internalID: 608020372828718547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8788ac331e6c4b510800000000000000
+      internalID: 1564093641143257208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_9
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 6750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520fec21aaf3e06f0800000000000000
+      internalID: -716565291012788187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965c9f0ae0f84d570800000000000000
+      internalID: 8490568490493265257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 6000
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde32d70b9ec8600800000000000000
+      internalID: 472009005190082046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6000
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adadace04b480190800000000000000
+      internalID: -7996058396175520352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_13
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 6000
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4751e7d1786420800000000000000
+      internalID: 2623471954955816329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6000
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c967b2e91860940800000000000000
+      internalID: 5262035730963012701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_15
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 6000
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c41217072a3b7f0800000000000000
+      internalID: -597955721692099483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_16
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6000
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18384e8e9616a10800000000000000
+      internalID: 1900916966714212794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43075732d3e790f40800000000000000
+      internalID: 5695222004839706676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c7dd686a1ebbd30800000000000000
+      internalID: 4448397162301979655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34949a9d94ebf2060800000000000000
+      internalID: 6930967575940122947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_20
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d43f04fa54141d0800000000000000
+      internalID: -3368334427285140189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_21
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2ccee77a326660800000000000000
+      internalID: 7377523426368170842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_22
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbeb7705fda3660800000000000000
+      internalID: 7366445677217234119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_23
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0dad4731f8d820800000000000000
+      internalID: 2943367576315301329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_24
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52693764b5fbdeb80800000000000000
+      internalID: -8363818534212233691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_25
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f8e4bb3d469ca0800000000000000
+      internalID: -6010531733845772003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kev1_26
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 5250
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d80f2d49658e40800000000000000
+      internalID: 5658044287083402030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

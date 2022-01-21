@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DefaultPlayer
+  - AlbanPlayer
+  - ThibPlayer
+  - YliPlayer
+  - KevinPlayer
+  - PlayersSwitch
+  - CameraFollow
+  - "Femme \xE0 S\xE9duire"
+  - GameManagerPlayer
+  - UITEXTEYLI
+  - PlayersSwitchWorld
+  - Enemy
+  - attackKev
+  - boxKev
+  - WLeft
+  - WRight
+  - InteractUI
+  - fantome
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Moto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
